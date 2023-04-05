@@ -1,4 +1,4 @@
-<h1># replit #</h1>
+<h1 align="center"># replit #</h1>
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
